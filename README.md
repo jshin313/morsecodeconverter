@@ -6,6 +6,8 @@ A basic morse code converter written in rust for Google Code In.
 
 Examples:
     ```
-    ./morse_code encode "Hello World"
+    ./morse_code encode "Hello World"```
+    
+    ```
     ./morse_code decode ".... . .-.. .-.. ---"
     ```
